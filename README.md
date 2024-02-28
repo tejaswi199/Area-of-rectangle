@@ -1,2 +1,2 @@
-# Area-of-triangle
-program which prints area of rectangle
+l,b=map(int,input().split())
+print(l*b)
